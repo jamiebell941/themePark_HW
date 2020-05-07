@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="" />
+    <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,12 +22,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1bXUgrYTgaC8akAycM2HBpo0IAK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579012822358" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -121,6 +130,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-907" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1588834863679">
+      <screen x="-1440" y="0" width="1440" height="900" />
+    </state>
+    <state x="-907" y="173" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.900/0.0.1440.900@-1440.0.1440.900" timestamp="1588834863679" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588796730217">
       <screen x="-1440" y="0" width="1440" height="900" />
     </state>
